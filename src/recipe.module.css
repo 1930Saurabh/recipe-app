@@ -1,0 +1,36 @@
+.recipe {
+    width: 300px; /* Adjust width as per your design */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 5px 20px rgba(71, 71, 71, 0.3);
+  }
+  
+  .recipe h1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .recipe img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
+  .recipe ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .recipe li {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  
+  .recipe p {
+    font-size: 14px;
+    color: #555;
+  }
+  
